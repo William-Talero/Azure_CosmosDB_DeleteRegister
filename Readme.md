@@ -3,7 +3,7 @@
 Este proyecto de consola .NET permite autenticarse utilizando Entra ID y realizar la eliminación de registros en una base de datos Cosmos DB.
 
 # Autor
-**William Andrés Talero Cifuentes**
+**William Andres Talero Cifuentes**
 
 ## Configuración Requerida
 
