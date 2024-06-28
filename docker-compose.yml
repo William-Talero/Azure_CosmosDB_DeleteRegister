@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  delete-cosmosdb-registry:
+    image: ${DOCKER_REGISTRY-}deletecosmosdbregistry
+    build:
+      context: .
+      dockerfile: delete-cosmosdb-registry/Dockerfile

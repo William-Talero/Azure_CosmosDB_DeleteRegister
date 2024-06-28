@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delete-cosmosdb-registry", "delete-cosmosdb-registry\delete-cosmosdb-registry.csproj", "{CAE75605-3994-4055-85F9-53F328E27544}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{DACC6157-1F6E-40FD-9763-D87CF6221D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE75605-3994-4055-85F9-53F328E27544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE75605-3994-4055-85F9-53F328E27544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE75605-3994-4055-85F9-53F328E27544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE75605-3994-4055-85F9-53F328E27544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACC6157-1F6E-40FD-9763-D87CF6221D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACC6157-1F6E-40FD-9763-D87CF6221D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACC6157-1F6E-40FD-9763-D87CF6221D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACC6157-1F6E-40FD-9763-D87CF6221D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D36799AC-45CE-403D-A74E-FE0543A2EF5A}
+	EndGlobalSection
+EndGlobal
