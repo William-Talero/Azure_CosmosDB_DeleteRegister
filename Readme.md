@@ -3,6 +3,7 @@
 Este proyecto de consola .NET permite autenticarse utilizando Entra ID y realizar la eliminación de registros en una base de datos Cosmos DB.
 
 # Autor
+
 **William Andres Talero Cifuentes**
 
 ## Configuración Requerida
@@ -35,14 +36,13 @@ La aplicación permite la eliminación de registros en Cosmos DB utilizando el I
 
 El proyecto sigue los principios SOLID y está organizado en las siguientes carpetas:
 
-	•	Program: Contiene la clase principal Program.cs que inicia la aplicación.
-	•	Services: Contiene los servicios relacionados con la autenticación y la interacción con Cosmos DB.
-	•	Interfaces: Define las interfaces para los servicios utilizados en la aplicación.
+    •	Program: Contiene la clase principal Program.cs que inicia la aplicación.
+    •	Services: Contiene los servicios relacionados con la autenticación y la interacción con Cosmos DB.
+    •	Interfaces: Define las interfaces para los servicios utilizados en la aplicación.
 
 # Ejecución del Proyecto
 
 Para ejecutar el proyecto:
 
-	1.	Configura adecuadamente el archivo appsettings.json con las credenciales y configuraciones necesarias.
-	2.	Compila y ejecuta la aplicación desde tu entorno de desarrollo preferido.
-
+    1.	Configura adecuadamente el archivo appsettings.json con las credenciales y configuraciones necesarias.
+    2.	Compila y ejecuta la aplicación desde tu entorno de desarrollo preferido.
